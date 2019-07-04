@@ -1,5 +1,17 @@
+
+<html>
+<head>
+<title>Halaman 1</title>
+</head>
+
+<body>
+
+<p>
 Hallo
 Ini azhar maulana 
 Hai
 Saya Gina Apriasiska
-kami adalah mahasiswa Politeknik Caltex Riau
+kami adalah mahasiswa Politeknik Caltex Riau</p>
+
+</body>
+</html>
