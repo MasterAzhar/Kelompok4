@@ -1,1 +1,13 @@
-ini adalah file halaman 2 yang akan di edit
+
+<html>
+<head>
+<title>Halaman 1</title>
+</head>
+
+<body>
+
+<p>
+ini adalah file halaman 2 yang akan di edit </p>
+
+</body>
+</html>
