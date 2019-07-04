@@ -1,13 +1,16 @@
 
 <html>
 <head>
-<title>Halaman 1</title>
+<title>Halaman 2</title>
 </head>
 
 <body>
-
+<h1>Halaman 2</h2>
 <p>
 ini adalah file halaman 2 yang akan di edit </p>
+
+<p>file ini sedang diedit</p>
+
 
 </body>
 </html>
