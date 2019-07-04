@@ -11,7 +11,7 @@ Hallo
 Ini azhar maulana 
 Hai
 Saya Gina Apriasiska
-Kami dari program studi Teknik Informatika di Politeknik Caltex Riau
+Kami dari program studi DIV-Teknik Informatika di Politeknik Caltex Riau
 <center></p>
 <h4>Politeknik Caltex Riau adalah salah satu politeknik swasta terbaik di indonesia. Politeknik Caltex Riau berdiri pada tahun 2001.</h4>
 
