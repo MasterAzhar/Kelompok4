@@ -9,5 +9,9 @@
 <p>
 ini adalah file halaman 3 </p>
 
+<h1>hello world!</h1>
+<h2>HELLO WORLD!</h2>
+<h3>hElLo WoRlD!</h3>
+
 </body>
 </html>
