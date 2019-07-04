@@ -6,12 +6,14 @@
 
 <body>
 <h1>Anggota Kelompok 4</h1>
-<p>
+<p><center>
 Hallo
 Ini azhar maulana 
 Hai
 Saya Gina Apriasiska
-kami adalah mahasiswa Politeknik Caltex Riau</p>
+Kami dari program studi Teknik Informatika di Politeknik Caltex Riau
+<center></p>
+<h4>Politeknik Caltex Riau adalah salah satu politeknik swasta terbaik di indonesia. Politeknik Caltex Riau berdiri pada tahun 2001.</h4>
 
 </body>
 </html>
