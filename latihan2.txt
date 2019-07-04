@@ -8,8 +8,12 @@
 <h1>Halaman 2</h2>
 <p>
 ini adalah file halaman 2 yang akan di edit </p>
-
 <p>file ini sedang diedit</p>
+<h2><b>
+halaman ini adalah tempat kami mengedit codingan yang diperlukan untuk project kami.
+project yang akan kami kerjakan bertiga.
+</b></h2>
+<p>Semoga project kami berhasil,amiin</p>
 
 
 </body>
