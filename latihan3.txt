@@ -1,1 +1,13 @@
-ini adalah file halaman 3
+
+<html>
+<head>
+<title>Halaman 1</title>
+</head>
+
+<body>
+
+<p>
+ini adalah file halaman 3 </p>
+
+</body>
+</html>
