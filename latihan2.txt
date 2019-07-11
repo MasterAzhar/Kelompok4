@@ -16,6 +16,9 @@ project yang akan kami kerjakan bertiga.
 <p>Semoga project kami berhasil,amiin</p>
 <p>Kami akan membuat projek dengan semangat!!!</p>
 
+<p>Bismillah, project success!</p>
+<p>Thanks for your support!</p>
+<p>wassalam</p>
 
 </body>
 </html>
