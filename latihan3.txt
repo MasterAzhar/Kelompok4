@@ -12,10 +12,12 @@ ini adalah file halaman 3 </p>
 <h1>hello world!</h1>
 <h2>HELLO WORLD!</h2>
 <h3>hElLo WoRlD!</h3>
-<p>we are a group which make a project in this page. we will make a nice project. we must prove that we can. 
+<p>we are a group which make a project in this page. we will make a nice project. 
+we must prove that we can. 
 we will show to people that we can, we will try to make everyone proud of us</p>
 
-<p>Everyone has a friend during each stage of life. But only lucky ones have the same friend in all stages of life</p>
+<p>Everyone has a friend during each stage of life. But only lucky ones 
+have the same friend in all stages of life</p>
 
 </body>
 </html>
