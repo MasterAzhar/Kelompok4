@@ -18,6 +18,7 @@ project yang akan kami kerjakan bertiga.
 
 <p>Bismillah, project success!</p>
 <p>Thanks for your support!</p>
+<p>wassalam</p>
 
 </body>
 </html>
